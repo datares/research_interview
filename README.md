@@ -5,7 +5,7 @@ Instructions for starting off:
 Clone the repo:
 
 ```bash
-git clone https://github.com/datares/research_challenge.git
+git clone https://github.com/datares/research_interview.git
 ```
 
 Take a look at the tensorboard cell by running it. In substance, it just runs an instance of Tensorboard on the folder "logs". 
